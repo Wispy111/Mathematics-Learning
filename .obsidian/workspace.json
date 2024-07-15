@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fb43c8c01988b682",
+        "id": "35c19f525dccb87b",
         "type": "tabs",
         "children": [
           {
-            "id": "02b18645f945f131",
+            "id": "69ec520e036be0df",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "复变函数论(第五版)学习指导书 (钟玉泉 编) (Z-Library).pdf"
+                "file": "Git 工作原理.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "复变函数论(第五版)学习指导书 (钟玉泉 编) (Z-Library).pdf",
+                "file": "Git 工作原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "复变函数论(第五版)学习指导书 (钟玉泉 编) (Z-Library).pdf",
+                "file": "Git 工作原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "复变函数论(第五版)学习指导书 (钟玉泉 编) (Z-Library).pdf"
+                "file": "Git 工作原理.md"
               }
             }
           }
@@ -136,17 +138,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "02b18645f945f131",
+  "active": "643fb450de20b5ed",
   "lastOpenFiles": [
-    "数学分析 III/Git 工作原理.md",
+    "Git 工作原理.md",
     "复变函数论(第五版)学习指导书 (钟玉泉 编) (Z-Library).pdf",
     "Untitled.md",
     "数学分析 III"

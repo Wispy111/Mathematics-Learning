@@ -1,1 +1,5 @@
-{}
+{
+  "textFontFamily": "Palatino Linotype,微软雅黑",
+  "baseFontSize": 22,
+  "interfaceFontFamily": "Inter"
+}
