@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "35c19f525dccb87b",
+        "id": "29238ffcb1572025",
         "type": "tabs",
         "children": [
           {
-            "id": "69ec520e036be0df",
+            "id": "731ea82afd402efe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git 工作原理.md",
+                "file": "数学分析 III/数项级数/级数收敛性与正项级数.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 251.50165176391602
   },
   "right": {
     "id": "20e9192f094e6369",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git 工作原理.md",
+                "file": "数学分析 III/数项级数/级数收敛性与正项级数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git 工作原理.md",
+                "file": "数学分析 III/数项级数/级数收敛性与正项级数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git 工作原理.md"
+                "file": "数学分析 III/数项级数/级数收敛性与正项级数.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "643fb450de20b5ed",
   "lastOpenFiles": [
-    "Git 工作原理.md",
+    "数学分析 III/数项级数",
+    "数学分析 III/数项级数/级数收敛性与正项级数.md",
     "复变函数论(第五版)学习指导书 (钟玉泉 编) (Z-Library).pdf",
-    "Untitled.md",
+    "Git 工作原理.md",
     "数学分析 III"
   ]
 }
