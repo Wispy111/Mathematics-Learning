@@ -1,5 +1,6 @@
 {
   "textFontFamily": "Palatino Linotype,微软雅黑",
   "baseFontSize": 22,
-  "interfaceFontFamily": "Inter"
+  "interfaceFontFamily": "Inter",
+  "monospaceFontFamily": "JetBrains Mono,Sarasa Fixed SC,Consolas"
 }
